@@ -1,37 +1,42 @@
-MOHD AZEEM
+ATIF AHMAD KHAN
 Curriculum Vitae
 Department of Mathematics
 Aligarh Muslim University, Aligarh
-T +91 9758844499
-B mohdazeem9211@gmail.com
+T +91 9760615215
+B atifkhanalig1997@gmail.com
 Personal Information
-Name : Mohd Azeem
-Father’s Name : Mohd Jameel
-Mother’s Name : Nishat Begum
-E-mail : mohdazeem9211@gmail.com
-Telephone : +91-9758844499
-Date of Birth & Place :May 05, 1997, Moradabad (U.P.), India
+Name : Atif Ahmad Khan
+Father’s Name : Shamim Ahmad Khan
+Mother’s Name : Kahkashan Khatoon
+E-mail : atifkhanalig1997@gmail.com, gi3812@myamu.ac.in
+Telephone : +91-9760615215
+Date of Birth & Place : July 01, 1997, Ballia, Uttar Pradesh, India
 Marital Status : Unmarried
 Passport Number : Available
 Educational Qualifications
-2022 Ph.D. Mathematics (Continue), Aligarh Muslim University, Aligarh.
-Topic of Ph.D A Study of DNA and Cyclic Codes Over the Finite Rings.
-2019 M.Sc. Mathematics (6.750 CGPA), Aligarh Muslim University, Aligarh.
-2017 B.Sc. Mathematics (63.55%), Aligarh Muslim University, Aligarh.
-2014 Intermediate (71.0%), Shanti Devi Inter College Bhojpur , Moradabad.
-2012 High School (82.83%), Inharul Haq Inter College Pipalsana , Moradabad.
+2026 Ph.D. in Mathematics (Thesis Submitted), Aligarh Muslim University, Aligarh.
+Topic of Ph.D. : A Study of Algebraic Aspects of Cryptography involving MDS Matrices.
+Supervisor : Prof. Shakir Ali, Aligarh Muslim University, Aligarh.
+Co-Supervisor : Dr. Bhupendra Singh, Centre for Artificial Intelligence & Robotics (CAIR), DRDO, Bengaluru.
+2019 M.Sc. Mathematics (7.710 CGPA), Aligarh Muslim University, Aligarh.
+2017 B.Sc. Mathematics (74.4%), Aligarh Muslim University, Aligarh.
+2013 Intermediate (88.6%), J. N. V. M. Inter College, Kanpur.
+2011 High School (80.04%), J. N. V. M. Inter College, Kanpur.
 Academic Achievements
-2024 Upgraded JRF (Junior Research Fellowship) to SRF (Senior Research Fellowship).
-2021 Qualified CSIR-UGC Net with JRF June 2021 (AIR 162).
-2021 Qualified GATE 2021 (Score 429).
-2022 Qualified GATE 2022 (Score 422).
+2024 Upgraded from Junior Research Fellowship (JRF) to Senior Research Fellowship (SRF).
+2022 Qualified CSIR-UGC Junior Research Fellowship (JRF), June 2022 (AIR 108).
+2021 Qualified GATE 2021 (AIR 180).
+2019 Qualified CSIR-NET December 2019 (AIR 56).
+2018 Qualified IIT JAM 2018 (AIR 380).
+
 Project
-M.Sc Project Zero divisor graphs of commutative rings, under the supervision of Prof. Nadeem-Ur-Rehman,
-Aligarh Muslim University, Aligarh, India.
+M.Sc. Project: A Study of Polynomial Rings, under the supervision of Dr. Muzibur Rahman Mozumder, Aligarh Muslim University, Aligarh, India.
 Field of Specialization/Interest
-Algebra and its related topics, Algebraic Coding Theory, DNA Coding, etc.
+Ring Theory, Group Theory, Linear Algebra, Coding Theory, Cryptography, and Engineering Mathematics.
+
 Research Experience
-3 years research experience in the field of Algebraic Coding Theory.
+
+5+ years research experience in the fields of Cryptography and Coding Theory.
 
 Research Publications (Research Papers)
 { Published Papers in Refereed Journal: 04
